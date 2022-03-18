@@ -1,4 +1,7 @@
-# libsvin
-libsvin is a library for writing or porting visual novels for Sega Saturn. The library is based on [`libyaul`][1].
+# Incomplete port of Everlasting Summer game for Sega Saturn
 
-[1]: https://github.com/ijacquez/libyaul
+Original game page : https://everlastingsummer.su/
+
+The port is based on [`libsvin`][1].
+
+[1]: https://github.com/hitomi2500/libsvin
